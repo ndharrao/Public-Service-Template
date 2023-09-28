@@ -9,7 +9,7 @@ The Public Service Template repository is a collection of ServiceNow configurati
 2. Create GitHub Access - use an existing account or [GitHub Create Account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 4. Log into your GitHub Account
 5. In the browser where you logged in to GitHub, paste this URL: https://github.com/jspirkosn/Public-Service-Template
-6. In the upper right hand corner of the page you should see a button to fork the repo, click to create your own fork
+6. In the upper right hand corner of the page you should see a button to fork the repo, click to create your own fork 
 7. Once the fork is complete copy the URL, it should be https://github.com/[your github user]/Public-Service-Template
 8. Create a ServiceNow Credential - if you have a GitHub credential for ServiceNow, skip to step 8
 	- In the ServiceNow Navigator go to "Connections & Credentials" -> "Credentials"
